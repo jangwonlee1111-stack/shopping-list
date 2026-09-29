@@ -1,0 +1,11 @@
+# 앱 데이터 (사용자마다 다름)
+shopping_list.json
+*.json.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Streamlit 비밀값
+.streamlit/secrets.toml
